@@ -19,6 +19,10 @@ class Person:
             self.__age = age
         else: print("Недопустимы возрост")
     print("hello")
+    print("hello")
+    print("hello")
+    print("hello")
+    print("hello")
 
     
 
