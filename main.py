@@ -1,7 +1,7 @@
 
 from library_metods import*
 import os
-print("hello")
+
 spisok = []
 while(True):
 
