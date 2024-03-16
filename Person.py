@@ -18,11 +18,7 @@ class Person:
         if 0<age<100:
             self.__age = age
         else: print("Недопустимы возрост")
-    print("hello")
-    print("hello")
-    print("hello")
-    print("hello")
-    print("hello")
+  
 
     
 
